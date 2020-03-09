@@ -1,5 +1,5 @@
 ## Minesweeper clone
-This was a project from my 2nd java programming course. The goal was to create a replica of the classic minesweeper game using Java and JavaFX (a GUI library).
+This was a project from my 2nd Java programming course. The goal was to create a replica of the classic minesweeper game using Java and JavaFX (a GUI library).
 
 ## Screenshots
 Pictures can be found on my [Project Website](http://krishanhewitt.ca/projectPage.php#msDiv).
@@ -21,5 +21,5 @@ Pictures can be found on my [Project Website](http://krishanhewitt.ca/projectPag
   -Practiced commenting methods/variables to save time when coming back to this code after not seeing it for a while  
  
 ## Installation
-Compilation and running of this program requires the EclipseIDE, the e(fx)clipse plugin and JDK.
+Compilation and running of this program requires Java8 and the JavaFX plugin installed (e(fx)clipse).
 
