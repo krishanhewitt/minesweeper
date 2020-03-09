@@ -5,14 +5,21 @@ This was a project from my 2nd java programming course. The goal was to create a
 Pictures can be found on my [Project Website](http://krishanhewitt.ca/projectPage.php#msDiv).
 
 ## Tech/Libraries used
-  -Java8
-  -JavaFX
-  -EclipseIDE
+  -Java8  
+  -JavaFX  
+  -EclipseIDE  
   
 ## Features
-  -Classes kept seperate to promote high cohesion/low coupling
-  -Commented 
-
+   Has all the original features of Minesweeper such as:  
+   -First click is *always* a spot with no mines  
+   -Empty tiles adjacent to other empty tiles reveal themselves when clicked  
+   -Boards are randomly generated and numbers are correctly calculated  
+   -etc.  
+    
+## Skills worked on
+  -Keeping classes seperate to promote high cohesion/low coupling  
+  -Practiced commenting methods/variables to save time when coming back to this code after not seeing it for a while  
+ 
 ## Installation
 Compilation and running of this program requires the EclipseIDE, the e(fx)clipse plugin and JDK.
 
