@@ -1,5 +1,5 @@
 ## Minesweeper clone
-This was a project from my 2nd Java programming course. The goal was to create a replica of the classic minesweeper game using Java and JavaFX (a GUI library).
+This was one of the bigger projects from my 2nd Java programming course. The goal was to create a replica of the classic minesweeper game using Java and JavaFX (a GUI library).
 
 ## Screenshots
 Pictures can be found on my [Project Website](http://krishanhewitt.ca/projectPage.php#msDiv).
